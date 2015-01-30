@@ -1,6 +1,11 @@
 # tessel
 somewhere to hold my tessel projects
 
+The Tessel is assumed to be configured as follows
+
+* C: Climate-si7020
+* B: Ambient-attx4
+
 To run this from scratch:
 
 * git clone https://github.com/dougtoppin/tessel.git
